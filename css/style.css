@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+/* .container{
+    width:80%;
+    margin:auto;
+} */
+#randam-color{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+.btn{
+    padding-bottom:30px;
+    margin-bottom:30px;
+}
+button{
+    border:2px solid #212121;
+    background-color:#212121;
+    padding:10px 80px;
+    color:#ffff;
+    border-radius:20px;
+    box-shadow:0px 0px 20px #ffff;
+}
+.btn-log{
+    border:2px solid #ffff;
+    width:400px;
+    height:50px;
+    
+}
